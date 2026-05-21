@@ -124,7 +124,7 @@ export function Footer() {
           </div>
 
           <div className="mt-12 pt-8 border-t text-center text-white">
-            2024 Autonomous Ventures Pvt ltd All rights Reserved.
+            2026 Autonomous Ventures. All rights reserved.
           </div>
         </div>
       </footer>

@@ -49,14 +49,22 @@ export function Navigation() {
             >
               Our Services
             </Link>
-            <Link
+			<Link
+			  href="/merchants"
+			  className={`text-gray-600 hover:text-[#0056A0] ${
+				isActive("/merchants") ? "!text-[#0056A0] font-semibold" : ""
+			  }`}
+			>
+			  Merchants
+			</Link>
+            {/*<Link
               href="/blogs"
               className={`text-gray-600 hover:text-[#0056A0] ${
                 isActive("/blogs") ? "!text-[#0056A0] font-semibold" : ""
               }`}
             >
               Blogs
-            </Link>
+            </Link> */}
             <Link
               href="/contact-us"
               className={`text-gray-600 hover:text-[#0056A0] ${

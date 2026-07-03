@@ -95,6 +95,12 @@ export function Footer() {
                 >
                   Maintenance
                 </Link>
+				<Link
+                  href="/merchants"
+                  className="block text-white hover:text-[#FFD700]"
+                >
+                  Merchants
+                </Link>
               </div>
             </div>
 

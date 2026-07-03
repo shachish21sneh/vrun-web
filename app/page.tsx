@@ -4,7 +4,7 @@ import { Features } from "@/components/features";
 import { Services } from "@/components/services";
 import { VideoSection } from "@/components/video-section";
 import { Stats } from "@/components/stats";
-import { PopularArticles } from "@/components/popular-articles";
+//import { PopularArticles } from "@/components/popular-articles";
 import { Testimonials } from "@/components/testimonials";
 import { Brands } from "@/components/brands";
 import { Locations } from "@/components/locations";
